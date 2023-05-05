@@ -60,7 +60,7 @@ Cartão 14:
 Pergunta: Como faço para solicitar uma declaração de matrícula?
 Resposta: Para solicitar uma declaração de matrícula, acesse o portal do aluno, vá até a seção de documentos e selecione "Solicitar Declaração de Matrícula". O documento será enviado para seu e-mail cadastrado em até 48 horas.
 
-Cartão 15:
+git Cartão 15:
 Pergunta: Há alguma restrição para a utilização dos laboratórios de informática?
 Resposta: Os laboratórios de informática podem ser utilizados pelos alunos para fins acadêmicos, desde que respeitem as regras estabelecidas pela universidade. O uso de software não licenciado e a realização de atividades não relacionadas aos estudos são proibidos.
 
