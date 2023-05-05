@@ -95,7 +95,7 @@ nav:
   - Home: index.md
   - Instalação - Preparando Ambiente: instalacao/index.md
   - Introdução: aulas/introducao/index.md
-#  - aula1: aulas/aula1/IntroPID.ipynb
+  - aula1: aulas/aula1/slides.pdf
 
 
 
